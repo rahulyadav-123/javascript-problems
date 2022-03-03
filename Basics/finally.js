@@ -1,0 +1,9 @@
+try{
+    console.log('happy')
+}
+catch(e){
+    console.log(e)
+}
+finally{
+    console.log('sad')
+}
